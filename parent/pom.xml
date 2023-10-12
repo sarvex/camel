@@ -510,7 +510,7 @@
     <yammer-metrics-version>2.2.0</yammer-metrics-version>
     <zxing-version>3.0.0</zxing-version>
 	<zxing-bundle-version>3.0.1_1</zxing-bundle-version>
-    <zookeeper-version>3.4.14</zookeeper-version>
+    <zookeeper-version>3.7.2</zookeeper-version>
 
     <!-- OSGi bundles properties -->
     <camel.osgi.import.camel.version>version="[$(version;==;${camel.osgi.version.clean}),$(version;=+;${camel.osgi.version.clean}))"</camel.osgi.import.camel.version>
